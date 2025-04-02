@@ -1,4 +1,4 @@
-<h1 align="center"> Atavares23 </h1>
+<h1 align="center"> Anderson Tavares </h1>
 
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/USER_ID?v=4" width="150" height="150">
@@ -64,5 +64,5 @@
 ---
 
 ✉️ **Contato**  
-📧 Email: Atavares23@email.com  
+📧 Email: anderson.a502@icloud.com  
 🔗 [LinkedIn](https://linkedin.com/in/Atavares23) | [GitHub](https://github.com/Atavares23)  
