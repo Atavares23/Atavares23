@@ -1,7 +1,7 @@
 <h1 align="center"> Anderson Tavares </h1>
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/USER_ID?v=4" width="150" height="150">
+  <img src="[https://avatars.githubusercontent.com/u/USER_ID?v=4](https://avatars.githubusercontent.com/u/133778110?v=4)" width="150" height="150">
 </p>
 
 <p align="center">
