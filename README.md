@@ -1,14 +1,20 @@
 <h1 align="center">👋 Olá! Eu sou o Anderson Tavares</h1>
 
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/133778110?v=4" width="150" height="150" style="border-radius: 50%">
-</p>
-
-<p align="center">
-  <a href="https://github.com/Atavares23"><img src="https://img.shields.io/github/followers/Atavares23?style=social"></a>
-  <a href="https://github.com/Atavares23?tab=repositories"><img src="https://img.shields.io/github/stars/Atavares23?style=social"></a>
-</p>
-
+<table align="center" cellpadding="0" cellspacing="0">
+    <tbody><tr>
+        <td rowspan="2">
+    <a href="https://app.daily.dev/andersontavares" rel="nofollow"><img src="https://api.daily.dev/devcards/v2/depprlsvoquWJ4gm1lV3m.png?type=default&r=643" width="356" alt="Anderson Tavares's Dev Card" data-canonical-src="https://api.daily.dev/devcards/v2/depprlsvoquWJ4gm1lV3m.png?type=default&r=89o" style="max-width: 100%;"></a>
+            </td>
+        <td> <a href="https://github.com/Atavares23">
+            <img src="https://camo.githubusercontent.com/a2f7588a1489101087fa8aaee4f264f03faaeb0ca681d50668e9ac58a96de05e/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d4d6172717565735269636b2673686f775f69636f6e733d74727565267468656d653d6f6e656461726b26696e636c7564655f616c6c5f636f6d6d6974733d7472756526636f756e745f707269766174653d74727565" data-canonical-src="https://github-readme-stats.vercel.app/api?username=andersontavares&amp;show_icons=true&amp;theme=onedark&amp;include_all_commits=true&amp;count_private=true" style="max-width: 100%;">
+        </a></td>
+    </tr>
+    <tr>
+        <td align="center"><a href="https://github.com/Atavares23">
+            <img src="https://camo.githubusercontent.com/dc230e70a0d8cf5ee10aa9b4793fd6467c9c32a5881ad3e64f72b5c91e5deb13/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d4d6172717565735269636b266c61796f75743d636f6d70616374266c616e67735f636f756e743d38267468656d653d6f6e656461726b" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersontavares&amp;layout=compact&amp;langs_count=8&amp;theme=onedark" style="max-width: 100%;">
+        </a></td>
+    </tr> 
+    </tbody></table>
 ---
 
 ### 🚀 Sobre mim
