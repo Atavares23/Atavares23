@@ -1,20 +1,25 @@
 <h1 align="center">👋 Olá! Eu sou o Anderson Tavares</h1>
 
-
+<table align="center" cellpadding="0" cellspacing="0">
+    <tbody><tr>
+        <td rowspan="2">
+    <a href="https://app.daily.dev/andersontavares" rel="nofollow"><img src="https://api.daily.dev/devcards/v2/depprlsvoquWJ4gm1lV3m.png?type=default&r=643" width="356" alt="Anderson Tavares's Dev Card" data-canonical-src="https://api.daily.dev/devcards/v2/depprlsvoquWJ4gm1lV3m.png?type=default&r=89o" style="max-width: 100%;"></a>
+            </td>
+        <td> <a href="https://github.com/Atavares23">
+            <img src="https://github-readme-stats.vercel.app/api?username=Atavares23&show_icons=true&theme=radical" data-canonical-src="https://github-readme-stats.vercel.app/api?username=andersontavares&amp;show_icons=true&amp;theme=onedark&amp;include_all_commits=true&amp;count_private=true" style="max-width: 100%;">
+        </a></td>
+    </tr>
+    <tr>
+        <td align="center"><a href="https://github.com/Atavares23">
+            <img src="https://github-readme-streak-stats.herokuapp.com/?user=Atavares23&theme=radical" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersontavares&amp;layout=compact&amp;langs_count=8&amp;theme=onedark" style="max-width: 100%;">
+        </a></td>
+    </tr> 
+    </tbody></table>
 ---
 
 ### 🚀 Sobre mim
 
 Sou apaixonado por tecnologia, desenvolvimento de software e soluções em nuvem. Estou sempre aprendendo algo novo, contribuindo com projetos e buscando crescer na minha carreira como desenvolvedor e arquiteto de sistemas.
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Atavares23&show_icons=true&theme=radical" width="45%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Atavares23&theme=radical" width="45%">
-</p>
 
 ---
 
