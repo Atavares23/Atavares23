@@ -70,5 +70,5 @@ Sou apaixonado por tecnologia, desenvolvimento de software e soluções em nuvem
 ---
 
 <p align="center">
-  Feito com 💙 por Anderson Tavares
+®
 </p>
